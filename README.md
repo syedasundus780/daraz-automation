@@ -21,7 +21,7 @@ It automates search and filtering functionality on [Daraz.pk](https://www.daraz.
    ```bash
    git clone https://github.com/syedasundus780/daraz-automation
    cd daraz-automation
-````
+   ```
 
 2. Install dependencies:
 
@@ -36,7 +36,6 @@ It automates search and filtering functionality on [Daraz.pk](https://www.daraz.
    pytest -s -v tests/test_daraz_search.py
    ```
 
----
 
 ## Author
 
