@@ -19,7 +19,7 @@ It automates search and filtering functionality on [Daraz.pk](https://www.daraz.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sundusnadeem/daraz-automation.git
+   git clone https://github.com/syedasundus780/daraz-automation
    cd daraz-automation
 ````
 
