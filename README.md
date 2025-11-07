@@ -1,6 +1,6 @@
 # Daraz Playwright Automation Project
 
-This project is part of **Assignment No. 7 – Selenium/Playwright Automation**.  
+This project is part of **Assignment No. 7 – Playwright Automation**.  
 It automates search and filtering functionality on [Daraz.pk](https://www.daraz.pk) using Playwright and Pytest.
 
 
